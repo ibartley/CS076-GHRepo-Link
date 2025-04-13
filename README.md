@@ -1,2 +1,1 @@
-# tst01
-test repo 1
+This repo has a single file that says "hello world".
